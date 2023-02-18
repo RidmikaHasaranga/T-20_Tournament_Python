@@ -1,0 +1,8 @@
+match status A1
+England win the match
+1st Inning
+{'bat': 'India', 'Tscore': 242, 'wicket': 10, 'score': {'a': 21, 'b': 12, 'c': 0, 'd': 29, 'e': 44, 'g': 12, 'h': 13, 'f': 68, 'i': 6}, 'ball': 'England', 'wicketby': {'i': 4, 'h': 2, 'f': 2, 'j': 1, 'g': 1}}
+2nd Inning
+{'bat': 'England', 'Tscore': 246, 'wicket': 5, 'score': {'a': 6, 'b': 13, 'c': 27, 'd': 52, 'e': 20}, 'ball': 'India', 'wicketby': {'j': 2, 'i': 1, 'g': 1, 'h': 1}}
+
+

@@ -1,0 +1,4 @@
+['South_Africa', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'J', 'k']
+['West_Indies', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'I', 'j', 'k']
+['Bangaladesh', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k']
+['Pakisthan', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'K']

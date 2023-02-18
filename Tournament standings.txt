@@ -1,0 +1,1 @@
+[('India', 242), ('England', 246), ('Australia', '0'), ('Sri_Lanka', '0'), ('South_Africa', '0'), ('West_Indies', '0'), ('Bangaladesh', '0'), ('Pakisthan', '0')]
